@@ -10,9 +10,9 @@
       },
       "CsvHelper": {
         "type": "Direct",
-        "requested": "[32.0.0, )",
-        "resolved": "32.0.0",
-        "contentHash": "D/s7hp6fQIWc/62dDlLEvqxMBsfjXUGmX9qsb5G+CUq/8iw+N8QhdmtjsThrWr8vJsD2qT1bfEMbrP+NPEMLfA=="
+        "requested": "[32.0.3, )",
+        "resolved": "32.0.3",
+        "contentHash": "JNDkd4Wc2Tim5IuyL8Ai13RhzRvaHItseEvlJ2YRkx2SMBFrIsW8a5+/o4/O1jsb6mlviihR6Hfyn+nqY6CurA=="
       },
       "Newtonsoft.Json": {
         "type": "Direct",
