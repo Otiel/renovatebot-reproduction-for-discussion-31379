@@ -1,17 +1,15 @@
-# minimal-reproduction-template
+# 31379
 
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+Renovate minimal reproduction repository for [discussion 31379](https://github.com/renovatebot/renovate/discussions/31379).
 
 ## Current behavior
 
-Explain the current behavior here.
+`packages.lock.json` is not correctly updated. ⚠ Not reproduced on this repository! It works on GitHub, but not in an air-gapped environment.
 
 ## Expected behavior
 
-Explain the expected behavior here.
+`packages.lock.json` should be updated, even in an air-gapped environment.
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/discussions/31379
