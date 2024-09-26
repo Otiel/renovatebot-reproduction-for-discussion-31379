@@ -10,15 +10,21 @@
       },
       "CsvHelper": {
         "type": "Direct",
-        "requested": "[32.0.0, )",
-        "resolved": "32.0.0",
-        "contentHash": "D/s7hp6fQIWc/62dDlLEvqxMBsfjXUGmX9qsb5G+CUq/8iw+N8QhdmtjsThrWr8vJsD2qT1bfEMbrP+NPEMLfA=="
+        "requested": "[33.0.1, )",
+        "resolved": "33.0.1",
+        "contentHash": "fev4lynklAU2A9GVMLtwarkwaanjSYB4wUqO2nOJX5hnzObORzUqVLe+bDYCUyIIRQM4o5Bsq3CcyJR89iMmEQ=="
       },
       "Newtonsoft.Json": {
         "type": "Direct",
         "requested": "[13.0.1, )",
         "resolved": "13.0.1",
         "contentHash": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A=="
+      },
+      "Serilog": {
+        "type": "Direct",
+        "requested": "[4.0.0, )",
+        "resolved": "4.0.0",
+        "contentHash": "2jDkUrSh5EofOp7Lx5Zgy0EB+7hXjjxE2ktTb1WVQmU00lDACR2TdROGKU0K1pDTBSJBN1PqgYpgOZF8mL7NJw=="
       }
     }
   }
